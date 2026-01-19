@@ -3,6 +3,10 @@ TASI Lectures On Topological Field Theories And Differential Cohomology
 
 This repository will store the latest version of the TASI lecture notes by G.W. Moore and V. Saxena, following updates made to version 1 posted to the arXiv on 8-Oct-2025 (https://arxiv.org/abs/2510.07408). 
 
+** Current Version **
+
+https://drive.google.com/file/d/1_ulsLJEC0w-tCGKGqrX8JZgvLb-3-Ufg/view?usp=sharing
+
 **How to cite**
 
 If you cite these lectures in your work, please use the InspireHEP record to obtain a bib entry. Alternatively, either of the following are acceptable:
