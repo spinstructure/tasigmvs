@@ -7,7 +7,7 @@ This page will point to the latest version of the TASI lecture notes by G.W. Moo
 
 **How to cite**
 
-If you cite these lectures in your work, please use the [InspireHEP record](https://inspirehep.net/literature/3065857) to obtain a .bib entry. Alternatively, either of the following are acceptable:
+If you cite these lectures in your work, please use the [InspireHEP record](https://inspirehep.net/literature/3065857) to obtain a .bib entry. Alternatively, either of the following is acceptable:
 
 ```
 @inproceedings{Moore:2025tmt,
