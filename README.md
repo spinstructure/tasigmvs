@@ -7,6 +7,7 @@ This repository will store the latest version of the TASI lecture notes by G.W. 
 
 If you cite these lectures in your work, please use the InspireHEP record to obtain a bib entry. Alternatively, either of the following are acceptable:
 
+```
 @inproceedings{Moore:2025tmt,
     author = "Moore, Gregory W. and Saxena, Vivek",
     title = "{TASI Lectures On Topological Field Theories And Differential Cohomology, with an appendix by Daniel S. Freed}",
@@ -18,7 +19,9 @@ If you cite these lectures in your work, please use the InspireHEP record to obt
     month = "10",
     year = "2025"
 }
+```
 
+```
 @inproceedings{Moore:2025tmt,
     author = "Moore, Gregory W. and Saxena, Vivek and Freed, with an appendix by Daniel S.",
     title = "{TASI Lectures On Topological Field Theories And Differential Cohomology}",
@@ -30,3 +33,4 @@ If you cite these lectures in your work, please use the InspireHEP record to obt
     month = "10",
     year = "2025"
 }
+```
