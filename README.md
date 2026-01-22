@@ -1,5 +1,4 @@
-# tasigmvs
-TASI Lectures On Topological Field Theories And Differential Cohomology
+# TASI Lectures On Topological Field Theories And Differential Cohomology
 
 This page will point to the latest version of the TASI lecture notes by G.W. Moore and V. Saxena, following updates made to version 1 posted to the [arXiv](https://arxiv.org/abs/2510.07408) on 8-Oct-2025. 
 
