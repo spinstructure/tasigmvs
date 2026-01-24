@@ -35,5 +35,3 @@ If you cite these lectures in your work, please use the [InspireHEP record](http
     year = "2025"
 }
 ```
-
-[Admin](https://drive.google.com/file/d/1_ulsLJEC0w-tCGKGqrX8JZgvLb-3-Ufg/view?usp=sharing)
