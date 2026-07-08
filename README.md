@@ -4,7 +4,7 @@ This page will point to the latest version of the TASI lecture notes by G.W. Moo
 
 ## :link: Current Version
 
-https://github.com/spinstructure/tasigmvs/blob/main/tasi2023tqftdc.pdf 
+https://raw.githubusercontent.com/spinstructure/tasigmvs/main/tasi2023tqftdc.pdf
 
 https://drive.google.com/open?id=1MFH-pOBjFqHxc7qybWQNU5PQxik0lo4F&usp=drive_fs
 
