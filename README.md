@@ -10,9 +10,7 @@ https://drive.google.com/open?id=1MFH-pOBjFqHxc7qybWQNU5PQxik0lo4F&usp=drive_fs
 
 ## :bookmark: How To Cite
 
-If you cite these lectures in your work, you can use the [InspireHEP record](https://inspirehep.net/literature/3065857) to fetch a bib citation. 
-
-However, the following version is preferable:
+If you cite these lectures in your work, please use the following .bib entry.
 
 ```
 @inproceedings{Moore:2025tmt,
