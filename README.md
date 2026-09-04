@@ -15,7 +15,7 @@ If you cite these lectures in your work, please use the following .bib entry.
 ```
 @inproceedings{Moore:2025tmt,
     author = "Moore, Gregory W. and Saxena, Vivek",
-    title = "{TASI Lectures On Topological Field Theories And Differential Cohomology, with an appendix by Daniel S. Freed}",
+    title = "{TASI Lectures On Topological Field Theories And Differential Cohomology}",
     booktitle = "{Theoretical Advanced Study Institute in Elementary Particle Physics 2023}: {Aspects of Symmetry}",
     eprint = "2510.07408",
     archivePrefix = "arXiv",
@@ -23,6 +23,5 @@ If you cite these lectures in your work, please use the following .bib entry.
     reportNumber = "YITP-SB-2025-04",
     month = "10",
     year = "2025",
-    note = "Current version: \url{https://github.com/spinstructure/tasigmvs}"
 }
 ```
