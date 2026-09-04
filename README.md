@@ -23,5 +23,6 @@ If you cite these lectures in your work, please use the following .bib entry.
     reportNumber = "YITP-SB-2025-04",
     month = "10",
     year = "2025",
+    note = "With an appendix by D. S. Freed.  Current version: \url{https://github.com/spinstructure/tasigmvs}"
 }
 ```
